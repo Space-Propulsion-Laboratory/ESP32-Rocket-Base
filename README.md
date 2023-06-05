@@ -8,3 +8,5 @@ ESP32 Rocket Base is an open-source launching base for small rockets made by [Sp
 - [MicroPython](https://micropython.org/)
 
 You can made it by yourself at home using our code, and remote controlling the whole base with Bluetooth Low Energy, and the [Serial Bluetooth Terminal](https://play.google.com/store/search?q=serial+bluetooth+terminal&c=apps&pli=1) Android app from your smartphone/tablet
+
+![ESP32 circuit](https://raw.githubusercontent.com/Space-Propulsion-Laboratory/ESP32-Rocket-Base/main/rocket-launchpad-circuit.png)
